@@ -26,5 +26,5 @@ Based on the project's statement, create a PDF file containing the technical des
 > Aveți nevoie ca cel puțin două clase să se afle într-o relație (moștenire, asociere, compoziție, agregare).
 
 
-#Build command:
+# Build command:
 cmake --build build --config Release
